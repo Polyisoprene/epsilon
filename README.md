@@ -21,9 +21,11 @@ pip install -r Requirment.txt
 
 #### 2. 配置.env.prod
 
-在nonebot的.env.prod配置文件内添加以下一行
+在nonebot的  **.env.prod**  配置文件内添加以下一行
 
+```
 COMMAND_START=["/"]
+```
 
 #### 3. 登录
 
